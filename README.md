@@ -35,6 +35,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
 
   </div>
 
